@@ -1,7 +1,7 @@
 ![](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/pic.gif)
 
 
-![githubbadge](https://github.com/edissonchamorroc?tab=following) <a href="https://www.linkedin.com/in/john-edisson-chamorro-coral-76ab74228/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Luisa%20Dias-blue?style=flat&logo=linkedin"></a> 
+<a href="https://www.linkedin.com/in/john-edisson-chamorro-coral-76ab74228/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Edisson%20Chamorro-blue?style=flat&logo=linkedin"></a> 
 
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
