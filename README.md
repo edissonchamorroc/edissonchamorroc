@@ -16,15 +16,15 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 ### :bar_chart: working:
 
  - At [Sophos Solutions](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A834013&keywords=sophos%20solutions&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=73d56474-06bd-49ff-9b56-fd7a77d41599&sid=gzT) as QA Tester;
- - Using ![Java](https://cdn-icons-png.flaticon.com/512/226/226777.png) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://www.flaticon.com/free-icon/drupal_5968691?term=drupal&page=1&position=3&page=1&position=3&related_id=5968691&origin=search) ![enter image description here](https://www.flaticon.com/free-icon/selenium_5937018?term=selenium&page=1&position=1&page=1&position=1&related_id=5937018&origin=search)![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git);;
+ - Using ![Java]() ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![Drupal]() ![selenium]()![serenity]([https://img.shields.io/badge/-gitflow-05a698?&logo=gi](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/serenity.PNG)t)![GitFlow](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
  
  ### :books: Learning:
- - ![enter image description here](https://www.flaticon.com/free-icon/node-js_5968322?term=node%20js&page=1&position=1&page=1&position=1&related_id=5968322&origin=search) ![enter image description here](https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=5&page=1&position=5&related_id=1126012&origin=search) ![enter image description here](), CI/CD, Docker;
+ - ![React js]() ![Node js]() ![spring boot](), CI/CD, Docker;
  - Something new everyday! 
 
-### :mortar_board: Studing:
+### :mortar_board: Studying:
 Electronic engineer bachelor, in UdeA (Universidad de Antioquia) 
 
 Let's talk! 
 
-⭐️ From [Edisson](https://github.com/baiana)
+⭐️ From [Edisson]()
