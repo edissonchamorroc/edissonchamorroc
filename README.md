@@ -11,7 +11,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 ### :bar_chart: working:
 
  - At [Sophos Solutions](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A834013&keywords=sophos%20solutions&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=73d56474-06bd-49ff-9b56-fd7a77d41599&sid=gzT) as QA Tester;
- - Using ![Java]() ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![Drupal]() ![selenium]()![]([https://img.shields.io/badge/-gitflow-05a698?&logo=gi](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/serenity.PNG)![GitFlow](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
+ - Using ![Java]() ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)![Drupal]() ![selenium]()![GitFlow](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
  
  ### :books: Learning:
  - ![React js]() ![Node js]() ![spring boot](), CI/CD, Docker;
