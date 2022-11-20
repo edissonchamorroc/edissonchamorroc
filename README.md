@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/john-edisson-chamorro-coral-76ab74228/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Edisson%20Chamorro-blue?style=flat&logo=linkedin"></a> 
 
-Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
+Welcome to my Github! I make codes to learn new things and help other people learn it too  :sweat_smile: .
 
 ##  :calendar: I am currently a QA tester at Sophos Solutions and I support the development area in the creation and administration of Drupal components. I am also finishing the last cycle of Mision Tic in which I learn about MERN Stack through the construction of an e-commerce
 
