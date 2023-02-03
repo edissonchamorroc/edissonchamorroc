@@ -5,7 +5,8 @@
 
 Welcome to my Github! I make codes to learn new things and help other people learn it too  :sweat_smile: .
 
-##  :calendar: I am currently a QA tester at Sophos Solutions and I support the development area in the creation and administration of Drupal components. I am also finishing the last cycle of Mision Tic in which I learn about MERN Stack through the construction of an e-commerce
+##  :calendar: I am currently work at QA tester for Sophos Solutions. Also I support the development area in the creation and administration of Drupal components, making landings, and I work looking for and fixing vulnerabilities in API's made in .net. 
+I finished all the Mision Tic cycles covering several programming languages and technologies, which strengthened me in my specialization as a fullstack developer.
 
 
 ### :bar_chart: working:
