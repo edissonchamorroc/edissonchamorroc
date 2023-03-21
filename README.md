@@ -22,12 +22,15 @@ I did a some courses about software they were my pragramming knowlodge base. Som
  - Using ![Java](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/java.png) 
   ![PHP](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/php.png) 
   ![Drupal](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/drupal.png) 
-  ![selenium](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/selenium.png) 
+  ![selenium](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/selenium.png)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
   ![GitFlow](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
  
  ### :books: Learning:
- - ![React js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/physics.png) ![Node js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/node-js.png) ![spring boot](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/spring-boot-ok.png), CI/CD, ![Docker](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/docker.png) ;
+ - ![React js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/physics.png) 
+ ![Node js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/node-js.png) 
+ ![spring boot](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/spring-boot-ok.png), 
+ ![Docker](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/docker.png) ;
  - Something new everyday! 
 
 ### :mortar_board: Studying:
