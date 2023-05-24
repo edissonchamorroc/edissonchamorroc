@@ -10,10 +10,13 @@ I have expirience with administration of Drupal components, making landings in R
 
 I did a some courses about software they were my pragramming knowlodge base. Some courses were:
  * Java SE & Java EE. Desde principiante a experto + 150 hrs - Pildorasinformaticas.com
- * Spring framework - Pildorasinformaticas.com
+ * Spring framework - UT view comfenalco
  * Four cicles (200hr each one), in Mision Tic, covering several programming languages and technologies, which strengthened me in my specialization as a fullstack developer.
- * React: De cero a experto ( Hooks y MERN ) - Udemy
- *  A lot of youtube videos about spring boot, spring web, spring data, spring security, microservices, unit tests, etc.
+ * Microservicios con Spring Boot y Spring Cloud Netflix Eureka - Udemy
+ * RestFull, Apis y Microservicios - SPAcademy
+ * Amazon API Gateway for serverless applications - AWS training and certification
+ * AWS Lambda fundations - AWS training and certification.
+ * And any others courses...
 
 
 ### :bar_chart: working:
