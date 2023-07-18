@@ -5,8 +5,8 @@
 
 Welcome to my Github! I make codes to learn new things and help other people learn it too  :sweat_smile: .
 
-##  :calendar: I am currently work as a Associate Consultant for Sophos Solutions. I support de QA and development area to bank clients.
-I have expirience with administration of Drupal components, making landings in React, and looking for and fixing vulnerabilities in API's made in .net. 
+##  :calendar: I am currently work as a Associate Consultant for Sophos Solutions. I support frontend, backend and do functional testing for some clients.
+I have expirience with java development, creation of Drupal components, and looking for and fixing vulnerabilities in API's. 
 
 I did a some courses about software they were my pragramming knowlodge base. Some courses were:
  * Java SE & Java EE. Desde principiante a experto + 150 hrs - Pildorasinformaticas.com
@@ -34,6 +34,7 @@ I did a some courses about software they were my pragramming knowlodge base. Som
  ![Node js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/node-js.png) 
  ![spring boot](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/spring-boot-ok.png), 
  ![Docker](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/docker.png) ;
+![Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/32px-Angular_full_color_logo.svg.png) ;
  - Something new everyday! 
 
 ### :mortar_board: Studying:
