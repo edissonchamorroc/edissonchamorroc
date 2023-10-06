@@ -33,8 +33,7 @@ I did a some courses about software they were my pragramming knowlodge base. Som
  - ![React js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/physics.png) 
  ![spring reactive](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/spring-boot-ok.png),
 ![Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/32px-Angular_full_color_logo.svg.png)
-![DynamoDB](https://miro.medium.com/v2/resize:fit:720/format:webp/1*P7MzM48z2_26FGf9QGxzVQ.jpeg)
-![Lambda AWS](https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2023/02/23/lambda_service.png)
+
  - And something new everyday! 
 
 ### :mortar_board: Studying:
