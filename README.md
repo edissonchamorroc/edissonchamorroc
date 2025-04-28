@@ -5,8 +5,8 @@
 
 Welcome to my Github! I make codes to learn new things and help other people learn it too  :sweat_smile: .
 
-##  :calendar: I am currently work as a Associate Consultant for Sophos Solutions. I support frontend, backend and do functional testing for Tuya client.
-I have expirience with Java, Spring boot, Spring web, Spring security, Spring JPA, Angular, React, Drupal, etc. Actually I'm working finding and fixing vulnerabilities in some Tuya API's. 
+##  :calendar: I am currently work as a QA Engineer for TUYA S.A. I support backend IBM develop and functional testing.
+I have expirience with Java, Spring boot, Spring web, Spring security, Spring JPA, Angular, React, Drupal, IBM ESQLetc. Actually I'm working finding and fixing vulnerabilities in TUYA projects. 
 
 I did a some courses about software they were my pragramming knowlodge base. Some courses were:
  * Java SE & Java EE. Desde principiante a experto + 150 hrs - Pildorasinformaticas.com
@@ -21,7 +21,7 @@ I did a some courses about software they were my pragramming knowlodge base. Som
 
 ### :bar_chart: working:
 
- - At [Sophos Solutions](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A834013&keywords=sophos%20solutions&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=73d56474-06bd-49ff-9b56-fd7a77d41599&sid=gzT) as Associate consultant;
+ - At [TUYA S.A](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A834013&keywords=sophos%20solutions&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=73d56474-06bd-49ff-9b56-fd7a77d41599&sid=gzT) as Associate consultant;
  - Using ![Java](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/java.png) 
   ![PHP](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/php.png) 
   ![Drupal](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/drupal.png) 
