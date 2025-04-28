@@ -21,7 +21,7 @@ I did a some courses about software they were my pragramming knowlodge base. Som
 
 ### :bar_chart: working:
 
- - At [TUYA S.A](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A834013&keywords=sophos%20solutions&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=73d56474-06bd-49ff-9b56-fd7a77d41599&sid=gzT) as Associate consultant;
+ - At [TUYA S.A](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A834013&keywords=sophos%20solutions&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=73d56474-06bd-49ff-9b56-fd7a77d41599&sid=gzT) as QA Engineer;
  - Using ![Java](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/java.png) 
   ![PHP](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/php.png) 
   ![Drupal](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/drupal.png) 
