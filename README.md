@@ -20,7 +20,7 @@ I used to programming in C++, python and Java as tool for microcontrollers. On t
  
  ### :books: Learning:
  - ![React js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/physics.png) 
- ![spring reactive](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/spring-boot-ok.png)![C#](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QIEzArHxshUsnnoadB_sS8mbYLNymKEu-Q&s)
+ ![spring reactive](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/spring-boot-ok.png)![C#](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/CS.jpg)
 
  - And something new everyday! 
 
