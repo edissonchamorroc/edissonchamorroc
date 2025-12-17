@@ -16,7 +16,7 @@ I used to programming in C++, python and Java as tool for microcontrollers. On t
   ![selenium](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/selenium.png)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
   ![GitFlow](https://img.shields.io/badge/-gitflow-05a698?&logo=git)
-  ![IBM Integration](https://miro.medium.com/v2/0*ucPW_LV2MZa1qkGP)
+  ![IBM Integration](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/IBM.png)
  
  ### :books: Learning:
  - ![React js](https://github.com/edissonchamorroc/edissonchamorroc/blob/main/physics.png) 
